@@ -111,12 +111,3 @@ Please open an issue or submit a PR.
 ## 📜 License
 
 This project is licensed under the **MIT License**.
-
-```
-
----
-
-This will give your repo a **professional look with a live-rendered diagram and badges** 🔥  
-
-👉 Do you want me to also **add shields.io badges for Terraform Cloud, Pre-Commit Hooks, or CI/CD (like GitHub Actions)** so it looks even more polished?
-```
