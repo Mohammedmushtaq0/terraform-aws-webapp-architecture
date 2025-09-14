@@ -1,4 +1,4 @@
-````markdown
+
 # 🚀 Terraform AWS Scalable Infrastructure
 
 [![Terraform](https://img.shields.io/badge/Terraform-v1.x-blueviolet?logo=terraform)](https://www.terraform.io/)
