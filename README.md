@@ -111,3 +111,4 @@ Please open an issue or submit a PR.
 ## 📜 License
 
 This project is licensed under the **MIT License**.
+---
