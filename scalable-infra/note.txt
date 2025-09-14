@@ -1,0 +1,2 @@
+before using the apply comand which is Useful if AWS resources are failing due to race conditions.
+"terraform apply -parallelism=1"
